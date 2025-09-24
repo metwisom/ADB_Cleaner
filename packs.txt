@@ -1,41 +1,12 @@
-#!/bin/bash
-# Xiaomi Debloat Script (безопасное удаление мусора)
-
-# Проверка, что ADB доступен
-if ! command -v adb &> /dev/null; then
-    echo "❌ ADB не установлен. Установи: sudo apt install android-tools-adb"
-    exit 1
-fi
-
-# Список пакетов для удаления
-PACKAGES=(
 com.android.bips
-# com.android.htmlviewer
-# com.android.wallpapercropper
 com.google.android.apps.wellbeing
-# com.google.android.contacts
 com.miui.documentsuioverlay
-# com.miui.guardprovider
-# com.miui.rom
-# com.miui.securityadd
-# com.miui.securitycenter # Позволяет смотреть названия пакетов
 com.miui.wmsvc
-# com.xiaomi.account
-# com.xiaomi.bluetooth
-# com.xiaomi.finddevice # bootloop
-
-#???
 com.miui.vsimcore
-# com.miui.daemon
-
-# com.google.android.apps.restore
-# com.google.android.overlay.setupwizard
-
 com.xiaomi.mi_connect_service
 com.xiaomi.miplay_client
 com.focaltech.fingerprint
 com.mi.globalbrowser
-
 com.debug.loggerui
 com.fido.asm
 com.fido.xiaomi.uafclient
@@ -74,7 +45,6 @@ com.android.theme.icon_pack.rounded.systemui
 com.android.theme.icon_pack.rounded.settings
 com.google.android.syncadapters.calendar
 com.google.android.syncadapters.contacts
-
 com.miui.freeform
 com.miui.hybrid
 com.miui.hybrid.accessory
@@ -175,14 +145,26 @@ ru.sportmaster.app
 ru.sunlight.sunlight
 ru.yandex.searchplugin
 zombie.survival.craft.z
-
-)
-
-echo "🚀 Запуск очистки Xiaomi от мусора..."
-
-for pkg in "${PACKAGES[@]}"; do
-    echo "➡️ Удаление $pkg"
-    adb shell pm uninstall --user 0 "$pkg"
-done
-
-echo "✅ Готово! Рекомендуется перезагрузить телефон."
+com.mintgames.wordtrip
+com.google.android.apps.restore
+com.miui.daemon
+com.google.android.overlay.setupwizard
+com.android.traceur
+com.android.deskclock
+com.longcheertel.cit
+android.autoinstalls.config.Xiaomi.model
+com.android.providers.partnerbookmarks
+com.fingerprints.sensortesttool
+com.longcheertel.secretcode
+com.google.android.partnersetup
+com.android.calllogbackup
+com.google.android.tts
+com.android.sharedstoragebackup
+com.android.settings.intelligence
+com.android.backupconfirm
+com.android.thememanager
+com.android.thememanager.module
+com.android.providers.userdictionary
+com.android.providers.blockednumber
+com.longcheertel.sarauth
+com.android.internal.display.cutout.emulation.tall

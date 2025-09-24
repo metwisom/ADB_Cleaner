@@ -1,1 +1,1 @@
-adb shell pm list packages > app_list
+adb shell pm list packages > app_list.txt
