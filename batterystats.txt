@@ -1,0 +1,210 @@
+Battery History (0% used, 1548 used of 4096KB, 17 strings using 936):
+                    0 (14) RESET:TIME: 2025-09-24-18-27-53
+                    0 (1) 080 status=charging health=good plug=usb temp=325 volt=4166 charge=4062 modemRailChargemAh=0 wifiRailChargemAh=0 +running +wake_lock +wifi_radio +screen +plugged phone_signal_strength=moderate +wifi_running +wifi +usb_data wifi_signal_strength=4 wifi_suppl=completed
+                    0 (2) 080 fg=1000:"com.miui.securitycenter"
+                    0 (2) 080 fg=1000:"com.miui.notification"
+                    0 (2) 080 top=u0a87:"com.miui.home"
+                    0 (2) 080 user=0:"0"
+                    0 (2) 080 userfg=0:"0"
+                +33ms (2) 080 stats=0:"wakelock-change"
+             +1s634ms (2) 080 stats=0:"dump"
+             +7s270ms (2) 080 stats=0:"get-stats"
+            +31s442ms (3) 080 -wake_lock -screen stats=0:"screen-state"
+            +31s488ms (2) 080 +wake_lock=1001:"*telephony-radio*"
+            +31s490ms (1) 080 -wake_lock
+            +31s490ms (2) 080 +wake_lock=1001:"*telephony-radio*"
+            +31s761ms (1) 080 -wake_lock
+            +31s835ms (2) 080 +wake_lock=1000:"WifiSuspend"
+            +31s847ms (1) 080 -wake_lock
+            +31s918ms (2) 080 +wake_lock=1001:"MwiRIL"
+            +31s932ms (1) 080 -wake_lock
+            +31s936ms (2) 080 +wake_lock=1027:"NfcService:mRoutingWakeLock"
+            +31s938ms (1) 080 -wake_lock
+            +31s941ms (2) 080 +wake_lock=u0a178:"CallbackRunner"
+            +31s946ms (1) 080 -wake_lock
+            +32s349ms (2) 080 +wake_lock=1001:"*telephony-radio*"
+            +32s350ms (1) 080 -wake_lock
+            +32s351ms (2) 080 +wake_lock=1000:"*telephony-radio*"
+            +32s364ms (1) 080 -wake_lock
+            +32s365ms (3) 080 +wake_lock=1001:"*telephony-radio*" stats=0:"get-stats"
+            +32s373ms (1) 080 -wake_lock
+            +34s052ms (2) 080 +wake_lock=1001:"*telephony-radio*"
+            +34s054ms (1) 080 -wake_lock
+            +34s054ms (2) 080 +wake_lock=1000:"*telephony-radio*"
+            +34s073ms (1) 080 -wake_lock
+            +34s073ms (3) 080 +wake_lock=1001:"*telephony-radio*" stats=0:"dump"
+            +34s106ms (1) 080 -wake_lock
+            +52s903ms (2) 080 temp=313
+          +1m24s895ms (1) 080 -wifi_radio
+          +1m38s463ms (1) 080 +wifi_radio
+          +1m53s213ms (3) 080 +wake_lock=1001:"MwiRIL" +job=9810:"com.xiaomi.finddevice/.v2.securitypush.SecurityContextRetryUpdateJob"
+          +1m53s473ms (1) 080 -wake_lock
+          +1m53s567ms (3) 080 +wake_lock=9810:"*job*/com.xiaomi.finddevice/.v2.securitypush.SecurityContextRetryUpdateJob" -job=9810:"com.xiaomi.finddevice/.v2.securitypush.SecurityContextRetryUpdateJob"
+          +1m53s596ms (1) 080 -wake_lock
+          +2m03s225ms (2) 080 +wake_lock=1000:"*alarm*:TIME_TICK"
+          +2m03s245ms (1) 080 -wake_lock
+          +2m03s747ms (2) 080 +wake_lock=1001:"*telephony-radio*"
+          +2m03s750ms (1) 080 -wake_lock
+          +2m03s750ms (2) 080 +wake_lock=1000:"*telephony-radio*"
+          +2m03s769ms (1) 080 -wake_lock
+          +2m03s770ms (3) 080 +wake_lock=1001:"*telephony-radio*" stats=0:"get-stats"
+          +2m03s804ms (1) 080 -wake_lock
+          +2m04s482ms (2) 080 +wake_lock=1001:"*telephony-radio*"
+          +2m04s485ms (1) 080 -wake_lock
+          +2m04s485ms (2) 080 +wake_lock=1000:"*telephony-radio*"
+          +2m04s505ms (1) 080 -wake_lock
+          +2m04s505ms (3) 080 +wake_lock=1001:"*telephony-radio*" stats=0:"dump"
+          +2m04s521ms (1) 080 -wake_lock
+          +2m08s159ms (1) 080 -wifi_radio
+          +2m09s434ms (1) 080 +wifi_radio
+          +2m10s527ms (2) 080 volt=4190
+          +2m46s046ms (1) 080 -wifi_radio
+          +4m42s784ms (1) 080 +wifi_radio
+          +4m57s886ms (2) 080 +wake_lock=1001:"*telephony-radio*" -wifi_radio
+          +4m57s960ms (1) 080 -wake_lock
+          +4m57s961ms (2) 080 +wake_lock=1000:"*telephony-radio*"
+          +4m57s980ms (1) 080 -wake_lock
+          +4m57s981ms (3) 080 +wake_lock=1001:"*telephony-radio*" stats=0:"dump"
+          +4m58s014ms (1) 080 -wake_lock
+
+Per-PID Stats:
+  PID 1208 wake time: +383ms
+  PID 1524 wake time: +146ms
+  PID 1524 wake time: +748ms
+  PID 1989 wake time: +258ms
+  PID 2220 wake time: +2ms
+  PID 1208 wake time: +29ms
+  PID 2054 wake time: +5ms
+
+Daily stats:
+  Current start time: 2025-09-24-17-27-59
+  Next min deadline: 2025-09-24-20-00-00
+  Next max deadline: 2025-09-24-22-00-00
+
+Statistics since last charge:
+  System starts: 0, currently on battery: false
+  Estimated battery capacity: 5000 mAh
+  Min learned battery capacity: 5078 mAh
+  Max learned battery capacity: 5078 mAh
+  Time on battery: 0ms (0,0%) realtime, 0ms (--%) uptime
+  Time on battery screen off: 0ms (--%) realtime, 0ms (--%) uptime
+  Time on battery screen doze: 0ms (--%)
+  Total run time: 4m 58s 60ms realtime, 4m 58s 60ms uptime
+  Discharge: 0 mAh
+  Screen off discharge: 0 mAh
+  Screen doze discharge: 0 mAh
+  Screen on discharge: 0 mAh
+  Device light doze discharge: 0 mAh
+  Device deep doze discharge: 0 mAh
+  Start clock time: 2025-09-24-18-27-53
+  Screen on: 0ms (--%) 0x, Interactive: 0ms (--%)
+  Screen brightnesses: (no activity)
+
+  CONNECTIVITY POWER SUMMARY START
+  Logging duration for connectivity statistics: 0ms 
+  Cellular Statistics:
+     Cellular kernel active time: 0ms (--%)
+     Cellular Sleep time:  0ms (--%)
+     Cellular Idle time:   0ms (--%)
+     Cellular Rx time:     0ms (--%)
+     Cellular Tx time:     
+       less than 0dBm:  0ms (--%)
+       0dBm to 8dBm:  0ms (--%)
+       8dBm to 15dBm:  0ms (--%)
+       15dBm to 20dBm:  0ms (--%)
+       above 20dBm:  0ms (--%)
+     Cellular data received: 0B
+     Cellular data sent: 0B
+     Cellular packets received: 0
+     Cellular packets sent: 0
+     Cellular Radio Access Technology: (no activity)
+     Cellular Rx signal strength (RSRP): (no activity)
+  Wifi Statistics:
+     Wifi kernel active time: 0ms (--%)
+     WiFi Scan time:  0ms (--%)
+     WiFi Sleep time:  0ms (--%)
+     WiFi Idle time:   0ms (--%)
+     WiFi Rx time:     0ms (--%)
+     WiFi Tx time:     0ms (--%)
+     Wifi data received: 0B
+     Wifi data sent: 0B
+     Wifi packets received: 0
+     Wifi packets sent: 0
+     Wifi states: (no activity)
+     Wifi supplicant states: (no activity)
+     Wifi Rx signal strength (RSSI): (no activity)
+  GPS Statistics:
+     GPS signal quality (Top 4 Average CN0):
+      poor (less than 20 dBHz): 0ms (--%) 
+      good (greater than 20 dBHz): 0ms (--%) 
+  CONNECTIVITY POWER SUMMARY END
+
+  Bluetooth total received: 0B, sent: 0B
+  Bluetooth scan time: 0ms 
+     Bluetooth Idle time:   0ms (--%)
+     Bluetooth Rx time:     0ms (--%)
+     Bluetooth Tx time:     0ms (--%)
+
+  Device battery use since last full charge
+    Amount discharged (lower bound): 0
+    Amount discharged (upper bound): 0
+    Amount discharged while screen on: 0
+    Amount discharged while screen off: 0
+    Amount discharged while screen doze: 0
+
+  Resource Power Manager Stats
+
+  CPU freqs: 2301000 2215000 2139000 2074000 2009000 1944000 1879000 1814000 1750000 1617000 1484000 1351000 1218000 1085000 979000 900000 1800000 1682000 1579000 1491000 1402000 1314000 1226000 1138000 1050000 948000 846000 745000 643000 542000 501000 400000
+
+  1000:
+    Wake lock WifiSuspend realtime
+    Wake lock *alarm* realtime
+    Wake lock PhoneWindowManager.mPowerKeyWakeLock realtime
+    Wake lock *telephony-radio* realtime
+    Sensor 5: (not used)
+  1001:
+    Wake lock RILJ_ACK_WL realtime
+    Wake lock MWIRIL_ACK_WL realtime
+    Wake lock *telephony-radio* realtime
+    Wake lock MwiRIL realtime
+    Sensor 72: (not used)
+  1027:
+    Wake lock NfcService:mRoutingWakeLock realtime
+  1068:
+    (nothing executed)
+  9802:
+    (nothing executed)
+  9810:
+    Wake lock *job*/com.xiaomi.finddevice/.v2.securitypush.SecurityContextRetryUpdateJob realtime
+    Job com.xiaomi.finddevice/.v2.securitypush.SecurityContextRetryUpdateJob: (not used)
+    Apk com.xiaomi.finddevice:
+      (nothing executed)
+  u0a55:
+    (nothing executed)
+  u0a69:
+    (nothing executed)
+  u0a71:
+    (nothing executed)
+  u0a87:
+    (nothing executed)
+  u0a101:
+    Apk com.xiaomi.xmsf:
+      (nothing executed)
+  u0a143:
+    (nothing executed)
+  u0a150:
+    (nothing executed)
+  u0a167:
+    (nothing executed)
+  u0a175:
+    (nothing executed)
+  u0a178:
+    Wake lock CallbackRunner realtime
+  u0a200:
+    (nothing executed)
+
+Total cpu time reads: 0
+Batched cpu time reads: 0
+Batching Duration (min): 16
+All UID cpu time reads since the later of device start or stats reset: 36
+UIDs removed since the later of device start or stats reset: 0
