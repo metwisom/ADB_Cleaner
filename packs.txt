@@ -197,3 +197,16 @@ android.autoinstalls.config.samsung
 com.samsung.android.themecenter
 com.samsung.android.dynamiclock
 com.sec.android.app.wlantest
+car.parking.jam.car.park.busgames.drive.out
+com.bigcake.android.bpdaily
+com.google.android.documentsui
+com.google.android.ext.shared
+com.google.android.ext.services
+com.miui.face.overlay.miui
+com.xiaomi.xmsfkeeper
+com.xiaomi.xmsf
+com.miui.securityadd
+com.google.android.apps.turbo
+com.google.android.apps.work.oobconfig
+com.xiaomi.account
+com.google.android.contacts
