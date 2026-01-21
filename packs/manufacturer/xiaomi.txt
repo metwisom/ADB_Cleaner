@@ -1,0 +1,163 @@
+# Xiaomi/MIUI Packages
+# These packages are specific to Xiaomi devices running MIUI
+# Categories: SAFE, RISKY, DANGER
+#
+# SAFE: Generally safe to remove
+# RISKY: May affect some features
+# DANGER: Can cause system instability
+
+# SAFE - MIUI Apps
+com.miui.gallery                    # MIUI Gallery
+com.miui.weather2                   # MIUI Weather
+com.miui.calculator                 # MIUI Calculator
+com.miui.notes                      # MIUI Notes
+com.miui.player                     # MIUI Music Player
+com.miui.screenrecorder             # Screen Recorder
+com.miui.qr                         # QR Scanner
+com.miui.touchassistant             # Touch Assistant
+
+# SAFE - Xiaomi Services
+com.xiaomi.midrop                   # Mi Drop file transfer
+com.xiaomi.scanner                  # Scanner app
+com.xiaomi.discover                 # App Discovery
+
+# RISKY - MIUI Cloud Services
+com.miui.cloudservice               # MIUI Cloud Service
+com.miui.cloudbackup                # Cloud Backup
+com.miui.micloudsync                # MiCloud Sync
+com.xiaomi.micloud.sdk              # MiCloud SDK
+
+# RISKY - MIUI System
+com.miui.backup                     # Backup app
+com.miui.cleanmaster                # Cleaner
+com.miui.analytics                  # Analytics
+com.miui.msa.global                 # MSA (advertising)
+
+# RISKY - Xiaomi Services
+com.xiaomi.mi_connect_service       # Xiaomi Connect
+com.milink.service                  # MiLink service
+com.xiaomi.xmsf                     # Xiaomi Message Service Framework
+
+# DANGER - Critical System
+com.miui.daemon                     # MIUI Daemon (DO NOT REMOVE)
+com.xiaomi.xmsfkeeper               # XMSF Keeper (DO NOT REMOVE)
+com.xiaomi.account                  # Xiaomi Account (DO NOT REMOVE)
+
+# SAFE - Pre-installed Games
+com.mobile.legends                  # Mobile Legends
+com.openmygame.android.sky.words    # Sky Words
+com.block.juggle                    # Juggle games
+com.hotplay.puzzlegames             # Puzzle games
+com.vitastudio.mahjong              # Mahjong
+com.zombie.survival.craft.z         # Zombie Survival
+com.mintgames.wordtrip              # Word Trip
+
+# SAFE - Pre-installed Apps
+com.mi.global.shop                  # Mi Store
+com.mi.globalbrowser                # Mi Browser
+com.mi.android.globalminusscreen    # Mi Minus Screen
+com.xiaomi.mipicks                  # Mi Picks
+com.xiaomi.payment                  # Mi Payment
+com.mipay.wallet.in                 # MiPay Wallet
+com.micredit.in                     # MiCredit
+
+# RISKY - Xiaomi Bloatware
+com.miui.fmservice                 # FM Service
+com.miui.fmservice                  # FM Service
+com.miui.fm                         # FM Radio
+com.miui.videoplayer                # Video Player
+com.miui.yellowpage                 # Yellow Pages
+
+# SAFE - Third-party Apps
+cn.wps.moffice_eng                  # WPS Office
+cn.wps.xiaomi.abroad.lite          # WPS Office Lite
+com.opera.browser                   # Opera Browser
+com.opera.preinstall                # Opera Pre-installed
+com.yandex.browser                  # Yandex Browser
+com.facebook.appmanager             # Facebook App Manager
+com.facebook.katana                 # Facebook
+com.facebook.services               # Facebook Services
+com.facebook.system                 # Facebook System
+com.ebay.mobile                     # eBay
+com.ebay.carrier                    # eBay Carrier
+com.netflix.partner.activation      # Netflix Partner
+com.facemoji.lite.xiaomi            # Facemoji Keyboard
+
+# SAFE - Xiaomi Themes
+com.android.theme.color.orchid      # Orchid Theme
+com.android.theme.color.purple      # Purple Theme
+com.android.theme.color.green       # Green Theme
+com.android.theme.color.ocean       # Ocean Theme
+com.android.theme.color.space       # Space Theme
+com.android.theme.color.black       # Black Theme
+com.android.theme.color.cinnamon    # Cinnamon Theme
+com.android.theme.icon.teardrop     # Teardrop Icon Pack
+com.android.theme.icon.square       # Square Icon Pack
+com.android.theme.icon.squircle     # Squircle Icon Pack
+com.android.theme.icon.roundedrect  # Rounded Rect Icon Pack
+com.android.theme.icon_pack.circular.android    # Circular Icons
+com.android.theme.icon_pack.circular.launcher   # Circular Launcher
+com.android.theme.icon_pack.circular.systemui   # Circular SystemUI
+com.android.theme.icon_pack.circular.settings   # Circular Settings
+com.android.theme.icon_pack.filled.android      # Filled Icons
+com.android.theme.icon_pack.filled.launcher     # Filled Launcher
+com.android.theme.icon_pack.filled.systemui     # Filled SystemUI
+com.android.theme.icon_pack.filled.settings     # Filled Settings
+com.android.theme.icon_pack.rounded.android     # Rounded Icons
+com.android.theme.icon_pack.rounded.launcher    # Rounded Launcher
+com.android.theme.icon_pack.rounded.systemui    # Rounded SystemUI
+com.android.theme.icon_pack.rounded.settings    # Rounded Settings
+
+# RISKY - MIUI Overlays
+com.miui.face.overlay.miui          # MIUI Face Overlay
+com.miui.securityadd                # Security Add
+com.miui.wmsvc                      # Window Manager Service
+com.miui.vsimcore                   # Virtual SIM Core
+com.miui.freeform                   # Freeform Mode
+com.miui.hybrid                     # Hybrid Mode
+com.miui.hybrid.accessory           # Hybrid Accessory
+com.miui.android.fashiongallery     # Fashion Gallery
+com.miui.cit                        # Customer Intelligence Tool
+com.miui.daemon                     # MIUI Daemon
+com.miui.audiomonitor               # Audio Monitor
+com.miui.audioeffect                # Audio Effects
+com.miui.misound                    # Mi Sound
+com.miui.miservice                 # MIUI Service
+com.miui.phrase                     # Phrase Input
+com.miui.bugreport                  # Bug Report
+com.miui.miwallpaper                # MIUI Wallpaper
+com.miui.wallpaperbackup            # Wallpaper Backup
+
+# SAFE - Testing Tools
+com.debug.loggerui                  # Debug Logger UI
+com.longcheertel.cit                # CIT Tool
+com.longcheertel.secretcode         # Secret Code
+com.longcheertel.sarauth            # SAR Auth
+com.fingerprints.sensortesttool     # Fingerprint Test Tool
+com.xiaomi.bttester                 # Bluetooth Tester
+com.xiaomi.simactivate.service      # SIM Activate Service
+com.xiaomi.powerchecker             # Power Checker
+
+# RISKY - Xiaomi System
+android.autoinstalls.config.Xiaomi.model  # Auto Install Config
+com.xiaomi.glgm                     # GLGM Service
+com.xiaomi.misettings               # Mi Settings
+com.xiaomi.payment                  # Mi Payment
+com.xiaomi.calendar                 # Xiaomi Calendar
+com.fido.asm                        # FIDO ASM
+com.fido.xiaomi.uafclient           # FIDO UAF Client
+com.wapi.wapicertmanager            # WAPI Cert Manager
+com.focaltech.fingerprint           # Focaltech Fingerprint
+com.miui.face                       # MIUI Face
+com.miui.securityadd                # Security Add
+
+# SAFE - Russian Apps
+ru.beru.android                     # Beru
+ru.dublgis.dgismobile               # 2GIS
+ru.more.play                        # More Play
+ru.oneme.app                        # OneMe
+ru.sportmaster.app                  # Sportmaster
+ru.sunlight.sunlight                # Sunlight
+ru.yandex.searchplugin              # Yandex Search Plugin
+com.vk.vkvideo                      # VK Video
+com.zhiliaoapp.musically            # TikTok

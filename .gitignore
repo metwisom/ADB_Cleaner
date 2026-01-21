@@ -1,1 +1,57 @@
-app_list.txt
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+adb-cleaner
+adb-cleaner-*
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+coverage.txt
+
+# Dependency directories
+vendor/
+
+# Go workspace file
+go.work
+
+# Build directories
+build/
+dist/
+
+# Log files
+logs/
+*.log
+
+# Backup files
+backups/
+backup_*.txt
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Configuration files (optional - uncomment if you want to ignore config.json)
+# config.json
+
+# Package lists (optional - uncomment if you want to ignore custom lists)
+# packs.txt
+# packs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# OS specific
+Thumbs.db
+.DS_Store

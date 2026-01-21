@@ -1,0 +1,231 @@
+# Safe Packages for Removal
+# These packages are generally safe to remove without affecting core system functionality
+# Last updated: 2026-01-21
+
+# Google Apps (Optional)
+com.google.android.apps.wellbeing     # Digital Wellbeing
+com.google.android.feedback          # Google Feedback
+com.google.android.printservice.recommendation  # Print Service
+com.google.android.projection.gearhead  # Android Auto
+com.google.ar.lens                   # Google Lens
+com.google.android.apps.restore      # Google Restore
+com.google.android.apps.work.oobconfig  # Work Setup
+
+# System Apps (Safe)
+com.android.bips                     # Bluetooth printing
+com.android.dreams.basic             # Basic screensaver
+com.android.wallpapercropper         # Wallpaper cropper
+com.android.wallpaperpicker          # Wallpaper picker
+com.android.wallpaper.livepicker     # Live wallpaper picker
+com.android.printspooler            # Print spooler
+com.android.soundrecorder            # Sound recorder
+com.android.deskclock               # Clock
+com.android.egg                     # Easter egg
+com.android.traceur                 # Screen recorder (system)
+com.android.dreams.phototable        # Photo table screensaver
+
+# Themes (Safe to remove if you don't use them)
+com.android.theme.color.orchid       # Orchid theme
+com.android.theme.color.purple       # Purple theme
+com.android.theme.color.green        # Green theme
+com.android.theme.color.ocean        # Ocean theme
+com.android.theme.color.space        # Space theme
+com.android.theme.color.black        # Black theme
+com.android.theme.color.cinnamon     # Cinnamon theme
+com.android.theme.icon.teardrop      # Teardrop icons
+com.android.theme.icon.square        # Square icons
+com.android.theme.icon.squircle      # Squircle icons
+com.android.theme.icon.roundedrect   # Rounded rect icons
+com.android.theme.font.notoserifsource  # Noto Serif font
+
+# Icon Packs (Safe)
+com.android.theme.icon_pack.circular.android    # Circular icons
+com.android.theme.icon_pack.circular.launcher   # Circular launcher
+com.android.theme.icon_pack.circular.systemui   # Circular systemui
+com.android.theme.icon_pack.circular.settings   # Circular settings
+com.android.theme.icon_pack.circular.themepicker # Circular themepicker
+com.android.theme.icon_pack.filled.android      # Filled icons
+com.android.theme.icon_pack.filled.launcher     # Filled launcher
+com.android.theme.icon_pack.filled.systemui     # Filled systemui
+com.android.theme.icon_pack.filled.settings     # Filled settings
+com.android.theme.icon_pack.filled.themepicker  # Filled themepicker
+com.android.theme.icon_pack.rounded.android      # Rounded icons
+com.android.theme.icon_pack.rounded.launcher     # Rounded launcher
+com.android.theme.icon_pack.rounded.systemui     # Rounded systemui
+com.android.theme.icon_pack.rounded.settings     # Rounded settings
+
+# Games (Safe)
+com.openmygame.android.sky.words    # Sky Words
+com.block.juggle                    # Juggle games
+com.hotplay.puzzlegames             # Puzzle games
+com.vitastudio.mahjong              # Mahjong
+com.mobile.legends                  # Mobile Legends
+com.zombie.survival.craft.z         # Zombie Survival
+com.mintgames.wordtrip              # Word Trip
+car.parking.jam.car.park.busgames.drive.out  # Parking games
+com.bigcake.android.bpdaily         # BP Daily
+
+# Social Media (Safe)
+com.facebook.appmanager             # Facebook App Manager
+com.facebook.katana                 # Facebook
+com.facebook.services               # Facebook Services
+com.facebook.system                 # Facebook System
+com.zhiliaoapp.musically            # TikTok
+com.vk.vkvideo                      # VK Video
+
+# Shopping (Safe)
+com.ebay.mobile                     # eBay
+com.ebay.carrier                    # eBay Carrier
+ru.beru.android                     # Beru (Russia)
+ru.sportmaster.app                  # Sportmaster (Russia)
+ru.sunlight.sunlight                # Sunlight (Russia)
+
+# Browsers (Safe)
+com.opera.browser                   # Opera Browser
+com.opera.preinstall                # Opera Pre-installed
+com.yandex.browser                  # Yandex Browser
+
+# Productivity (Safe)
+cn.wps.moffice_eng                  # WPS Office
+cn.wps.xiaomi.abroad.lite          # WPS Office Lite
+com.google.android.apps.docs        # Google Docs
+
+# Entertainment (Safe)
+com.netflix.partner.activation     # Netflix Partner
+com.google.android.videos          # Google Play Movies
+com.google.android.youtube          # YouTube
+com.google.android.apps.youtube.music  # YouTube Music
+
+# Maps (Safe)
+com.google.android.apps.maps       # Google Maps
+ru.dublgis.dgismobile              # 2GIS (Russia)
+
+# Other Apps (Safe)
+ru.more.play                        # More Play (Russia)
+ru.oneme.app                        # OneMe (Russia)
+ru.yandex.searchplugin              # Yandex Search Plugin
+
+# Testing/Debug Tools (Safe)
+com.debug.loggerui                  # Debug Logger UI
+com.longcheertel.cit                # CIT Tool
+com.longcheertel.secretcode         # Secret Code
+com.longcheertel.sarauth            # SAR Auth
+com.fingerprints.sensortesttool     # Fingerprint Test Tool
+com.xiaomi.bttester                 # Bluetooth Tester
+com.xiaomi.powerchecker             # Power Checker
+
+# Xiaomi Specific (Safe)
+com.miui.gallery                    # MIUI Gallery
+com.miui.weather2                   # MIUI Weather
+com.miui.calculator                 # MIUI Calculator
+com.miui.notes                      # MIUI Notes
+com.miui.player                     # MIUI Music Player
+com.miui.screenrecorder             # Screen Recorder
+com.miui.qr                         # QR Scanner
+com.miui.touchassistant             # Touch Assistant
+com.xiaomi.midrop                   # Mi Drop
+com.xiaomi.scanner                  # Scanner
+com.xiaomi.discover                 # App Discovery
+com.mi.global.shop                  # Mi Store
+com.mi.globalbrowser                # Mi Browser
+com.mi.android.globalminusscreen    # Mi Minus Screen
+com.xiaomi.mipicks                  # Mi Picks
+com.miui.fm                         # FM Radio
+com.miui.videoplayer                # Video Player
+com.miui.yellowpage                 # Yellow Pages
+
+# Keyboard (Safe)
+com.facemoji.lite.xiaomi            # Facemoji Keyboard
+
+# Sync Services (Safe)
+com.google.android.syncadapters.calendar  # Calendar Sync
+com.google.android.syncadapters.contacts  # Contacts Sync
+
+# Location Services (Safe)
+com.google.android.gms.location.history  # Location History
+
+# Emergency (Optional - safe for most users)
+com.android.emergency               # Emergency app
+
+# Calendar (Optional - safe if you use Google Calendar)
+com.android.calendar                # System Calendar
+com.android.providers.calendar      # Calendar Provider
+
+# Documents (Optional)
+com.google.android.documentsui      # Documents UI
+com.miui.documentsuioverlay         # MIUI Documents Overlay
+
+# Settings Intelligence (Optional)
+com.android.settings.intelligence    # Settings Intelligence
+
+# Theme Manager (Optional - if you don't use themes)
+com.android.thememanager            # Theme Manager
+com.android.thememanager.module     # Theme Manager Module
+
+# User Dictionary (Optional)
+com.android.providers.userdictionary  # User Dictionary Provider
+
+# Blocked Numbers (Optional)
+com.android.providers.blockednumber # Blocked Numbers Provider
+
+# Call Log Backup (Optional)
+com.android.calllogbackup           # Call Log Backup
+
+# Shared Storage Backup (Optional)
+com.android.sharedstoragebackup     # Shared Storage Backup
+
+# Partner Bookmarks (Optional)
+com.android.providers.partnerbookmarks  # Partner Bookmarks
+
+# Backup Confirm (Optional)
+com.android.backupconfirm           # Backup Confirm
+
+# TTS (Optional - if you use another TTS)
+com.google.android.tts              # Google TTS
+
+# Telemetry (Safe to remove)
+com.google.mainline.telemetry       # Google Mainline Telemetry
+
+# Hiya (Safe)
+com.hiya.star                       # Hiya Caller ID
+
+# Carrier Services (Safe)
+com.google.android.apps.carrier.carrierwifi  # Carrier WiFi
+com.verizon.remoteSimlock           # Verizon SIM Lock
+com.ebay.carrier                    # eBay Carrier
+
+# Samsung Specific (Safe)
+com.samsung.android.app.appsedge    # Apps Edge
+com.samsung.android.app.settings.bixby  # Bixby Settings
+com.samsung.android.bio.face.service  # Face Service
+com.samsung.android.biometrics.app.setting  # Biometrics Settings
+com.samsung.android.game.gos         # Game Optimizing Service
+com.samsung.android.scloud           # Samsung Cloud
+com.samsung.faceservice              # Face Service
+com.sec.android.widgetapp.webmanual  # Web Manual
+com.sec.android.app.magnifier        # Magnifier
+com.samsung.android.a10.d01.wallpapermulti  # Wallpaper Multi
+com.samsung.android.allshare.service.mediashare  # AllShare
+com.samsung.aasaservice             # AAA Service
+com.sec.factory.cameralyzer         # Camera Lyzer
+com.sec.epdg                        # ePDG
+com.samsung.ims.smk                 # IMS SMK
+com.samsung.android.app.omcagent    # OMC Agent
+com.samsung.android.shortcutbackupservice  # Shortcut Backup
+com.samsung.android.networkdiagnostic  # Network Diagnostic
+com.samsung.android.livestickers    # Live Stickers
+com.android.cts.ctsshim             # CTS Shim
+com.aura.oobe.samsung.gl            # Samsung OOBE
+com.samsung.android.themecenter     # Theme Center
+com.samsung.android.dynamiclock     # Dynamic Lock
+com.sec.android.app.wlantest        # WLAN Test
+android.autoinstalls.config.samsung  # Auto Install Config
+
+# Google Setup Wizard (Optional)
+com.google.android.overlay.setupwizard  # Setup Wizard Overlay
+
+# Partner Setup (Optional)
+com.google.android.partnersetup     # Partner Setup
+
+# Cutout Emulation (Optional)
+com.android.internal.display.cutout.emulation.tall  # Cutout Emulation

@@ -1,0 +1,9 @@
+{
+  "adbPath": "adb",
+  "packagesFile": "packs.txt",
+  "logDir": "logs",
+  "backupDir": "backups",
+  "userId": "0",
+  "theme": "default",
+  "autoSelectSafe": false
+}
